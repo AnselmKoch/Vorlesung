@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a602cede-761d-4f75-b2a0-4ebe923ac8cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Vorlesung1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftwareEngineering/SoftwareEngineering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/BinTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/Corona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/Fractrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/MathPlotter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/MenschenNippel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/RainDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/SimpleTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/TestShit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/first/test123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/Clones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/ElevenColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/Feld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/FractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/GameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/GameOfLifeSetupFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/IdealWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/Informations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/MaXGuIs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/MyPaint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/Rainbow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/Safe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/SliderTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/Spielfeld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/StartGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/ToggleSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/second/Umfuelllisten.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j5zVgSXB8ofTCO7eiR4L43Lfmw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.main.first" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ansel\Videos\Vorlesung1\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src.main.java.first" />
+      <recent name="src.main.java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FiveColumnPrimes">
+    <configuration name="FiveColumnPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.second.FiveColumnPrimes" />
+      <module name="Vorlesung1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.second.GameOfLife" />
+      <module name="Vorlesung1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaXGuIs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.second.MaXGuIs" />
+      <module name="Vorlesung1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Monat" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first.Monat" />
+      <module name="Vorlesung1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPaint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.second.MyPaint" />
+      <module name="Vorlesung1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerTower" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.main.first.PowerTower" />
+      <module name="Vorlesung1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first.PowerTower" />
+      <module name="Vorlesung1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Schnecke" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.first.Schnecke" />
+      <module name="Vorlesung1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Umfuelllisten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.second.Umfuelllisten" />
+      <module name="Vorlesung1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PowerTower" />
+      <item itemvalue="Application.Schnecke" />
+      <item itemvalue="Application.Monat" />
+      <item itemvalue="Application.MyPaint" />
+      <item itemvalue="Application.MaXGuIs" />
+      <item itemvalue="Application.Umfuelllisten" />
+      <item itemvalue="Application.GameOfLife" />
+      <item itemvalue="Application.FiveColumnPrimes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FiveColumnPrimes" />
+        <item itemvalue="Application.MyPaint" />
+        <item itemvalue="Application.MaXGuIs" />
+        <item itemvalue="Application.GameOfLife" />
+        <item itemvalue="Application.Umfuelllisten" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a602cede-761d-4f75-b2a0-4ebe923ac8cf" name="Default Changelist" comment="" />
+      <created>1603108766745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603108766745</updated>
+      <workItem from="1603108767767" duration="10744000" />
+      <workItem from="1603129970578" duration="115000" />
+      <workItem from="1603704654927" duration="3713000" />
+      <workItem from="1603714441903" duration="15708000" />
+      <workItem from="1603787562572" duration="1064000" />
+      <workItem from="1603816341874" duration="261000" />
+      <workItem from="1603831962601" duration="24000" />
+      <workItem from="1603991819234" duration="100000" />
+      <workItem from="1604304251251" duration="20642000" />
+      <workItem from="1604330251321" duration="93000" />
+      <workItem from="1604912154619" duration="21043000" />
+      <workItem from="1604940272473" duration="4611000" />
+      <workItem from="1604957321568" duration="25000" />
+      <workItem from="1604957381199" duration="678000" />
+      <workItem from="1605012894233" duration="1164000" />
+      <workItem from="1605015779178" duration="3187000" />
+      <workItem from="1605030141396" duration="1225000" />
+      <workItem from="1605033656713" duration="19000" />
+      <workItem from="1605034396815" duration="13000" />
+      <workItem from="1605090340853" duration="62000" />
+      <workItem from="1605514063126" duration="21202000" />
+      <workItem from="1605705878609" duration="1782000" />
+      <workItem from="1605893546931" duration="257000" />
+      <workItem from="1605895606995" duration="437000" />
+      <workItem from="1605897854783" duration="770000" />
+      <workItem from="1606133440044" duration="12331000" />
+      <workItem from="1606156252971" duration="1565000" />
+      <workItem from="1606162173815" duration="88000" />
+      <workItem from="1606227172543" duration="1012000" />
+      <workItem from="1606299319088" duration="5108000" />
+      <workItem from="1606386024803" duration="42000" />
+      <workItem from="1606468420910" duration="35000" />
+      <workItem from="1606503979388" duration="343000" />
+      <workItem from="1606509207930" duration="112000" />
+      <workItem from="1606596527088" duration="73000" />
+      <workItem from="1606596921934" duration="237000" />
+      <workItem from="1606663618845" duration="78000" />
+      <workItem from="1606674556584" duration="1495000" />
+      <workItem from="1606726692444" duration="9000" />
+      <workItem from="1606728737628" duration="913000" />
+      <workItem from="1606733193458" duration="151000" />
+      <workItem from="1606756064807" duration="25000" />
+      <workItem from="1607202475335" duration="165000" />
+      <workItem from="1607202908545" duration="69000" />
+      <workItem from="1607240319713" duration="664000" />
+      <workItem from="1607286090796" duration="698000" />
+      <workItem from="1607343374275" duration="3583000" />
+      <workItem from="1607346992980" duration="13504000" />
+      <workItem from="1607367545233" duration="37000" />
+      <workItem from="1607379110671" duration="26000" />
+      <workItem from="1607608343165" duration="2320000" />
+      <workItem from="1607688232800" duration="278000" />
+      <workItem from="1607706312411" duration="174000" />
+      <workItem from="1607712522497" duration="7000" />
+      <workItem from="1607792633679" duration="646000" />
+      <workItem from="1607807042388" duration="4000" />
+      <workItem from="1607948790502" duration="9736000" />
+      <workItem from="1607981124410" duration="18000" />
+      <workItem from="1608117087743" duration="2768000" />
+      <workItem from="1608191106426" duration="38000" />
+      <workItem from="1608191158003" duration="10000" />
+      <workItem from="1608191518315" duration="20000" />
+      <workItem from="1608196188338" duration="3315000" />
+      <workItem from="1608202521243" duration="6000" />
+      <workItem from="1608211951140" duration="16000" />
+      <workItem from="1608229951229" duration="284000" />
+      <workItem from="1608537768449" duration="12858000" />
+      <workItem from="1608567348070" duration="497000" />
+      <workItem from="1608571145007" duration="757000" />
+      <workItem from="1608588422089" duration="155000" />
+      <workItem from="1608733273573" duration="612000" />
+      <workItem from="1608822886441" duration="69000" />
+      <workItem from="1608827362501" duration="110000" />
+      <workItem from="1608891471799" duration="8000" />
+      <workItem from="1609173499689" duration="81000" />
+      <workItem from="1609345186143" duration="67000" />
+      <workItem from="1609676282646" duration="199000" />
+      <workItem from="1609677292938" duration="12000" />
+      <workItem from="1609963787140" duration="1000" />
+      <workItem from="1610108442804" duration="1971000" />
+      <workItem from="1610112671206" duration="4000" />
+      <workItem from="1610131691599" duration="195000" />
+      <workItem from="1610270406829" duration="728000" />
+      <workItem from="1610306725986" duration="1384000" />
+      <workItem from="1610353964822" duration="4496000" />
+      <workItem from="1610401361075" duration="302000" />
+      <workItem from="1610401725049" duration="97000" />
+      <workItem from="1610401857233" duration="132000" />
+      <workItem from="1610402566293" duration="165000" />
+      <workItem from="1610407688205" duration="49000" />
+      <workItem from="1610407772542" duration="74000" />
+      <workItem from="1610719467492" duration="290000" />
+      <workItem from="1610722480894" duration="2671000" />
+      <workItem from="1610727318527" duration="1235000" />
+      <workItem from="1610730115894" duration="4273000" />
+      <workItem from="1610788098951" duration="5344000" />
+      <workItem from="1610809892240" duration="494000" />
+      <workItem from="1610811305204" duration="84000" />
+      <workItem from="1610923540352" duration="98000" />
+      <workItem from="1610925470193" duration="2450000" />
+      <workItem from="1610932696975" duration="16000" />
+      <workItem from="1610963708120" duration="193000" />
+      <workItem from="1610964503064" duration="662000" />
+      <workItem from="1610970187540" duration="7000" />
+      <workItem from="1611055801232" duration="32000" />
+      <workItem from="1611056980139" duration="97000" />
+      <workItem from="1611067827889" duration="20000" />
+      <workItem from="1611069547258" duration="7000" />
+      <workItem from="1611094837832" duration="2512000" />
+      <workItem from="1611132143628" duration="5000" />
+      <workItem from="1611163413597" duration="656000" />
+      <workItem from="1611167534176" duration="4000" />
+      <workItem from="1611567363239" duration="145000" />
+      <workItem from="1611843043967" duration="33000" />
+      <workItem from="1613484551490" duration="1858000" />
+      <workItem from="1613608446440" duration="309000" />
+      <workItem from="1613846843106" duration="8000" />
+      <workItem from="1614848226163" duration="645000" />
+      <workItem from="1614850050063" duration="9310000" />
+      <workItem from="1614864891422" duration="3343000" />
+      <workItem from="1614898603703" duration="174000" />
+      <workItem from="1614930527378" duration="31000" />
+      <workItem from="1614934627273" duration="123000" />
+      <workItem from="1614934782224" duration="48000" />
+      <workItem from="1614940408151" duration="20000" />
+      <workItem from="1614945824999" duration="341000" />
+      <workItem from="1614952197788" duration="119000" />
+      <workItem from="1614957491730" duration="21000" />
+      <workItem from="1615460719476" duration="17999000" />
+      <workItem from="1615579946761" duration="46000" />
+      <workItem from="1615727128422" duration="98000" />
+      <workItem from="1615753410962" duration="207000" />
+      <workItem from="1615910116068" duration="4844000" />
+      <workItem from="1615916055413" duration="1200000" />
+      <workItem from="1615918198790" duration="6094000" />
+      <workItem from="1616005957553" duration="282000" />
+      <workItem from="1616058273017" duration="15562000" />
+      <workItem from="1616090704711" duration="2855000" />
+      <workItem from="1616105905434" duration="472000" />
+      <workItem from="1616143303252" duration="619000" />
+      <workItem from="1616152032119" duration="706000" />
+      <workItem from="1616173835700" duration="1651000" />
+      <workItem from="1616189807965" duration="157000" />
+      <workItem from="1616342443034" duration="48000" />
+      <workItem from="1616353406358" duration="681000" />
+      <workItem from="1616354542635" duration="2497000" />
+      <workItem from="1616430412992" duration="2677000" />
+      <workItem from="1616514570521" duration="71000" />
+      <workItem from="1616662778325" duration="21394000" />
+      <workItem from="1617035303725" duration="17000" />
+      <workItem from="1617037719012" duration="367000" />
+      <workItem from="1617038173778" duration="4000" />
+      <workItem from="1617047625773" duration="13000" />
+      <workItem from="1617047745467" duration="157000" />
+      <workItem from="1617198137133" duration="650000" />
+      <workItem from="1617273300076" duration="2203000" />
+      <workItem from="1617276134593" duration="9565000" />
+      <workItem from="1617301284411" duration="219000" />
+      <workItem from="1617368449864" duration="177000" />
+      <workItem from="1617387483808" duration="116000" />
+      <workItem from="1617394902192" duration="15000" />
+      <workItem from="1617444455157" duration="354000" />
+      <workItem from="1617449012219" duration="64000" />
+      <workItem from="1617476036835" duration="1584000" />
+      <workItem from="1617521347810" duration="235000" />
+      <workItem from="1617527110738" duration="8000" />
+      <workItem from="1617533794141" duration="21000" />
+      <workItem from="1617626722013" duration="283000" />
+      <workItem from="1617628964653" duration="602000" />
+      <workItem from="1617877534841" duration="16261000" />
+      <workItem from="1617898779283" duration="451000" />
+      <workItem from="1617899292891" duration="663000" />
+      <workItem from="1617919676696" duration="105000" />
+      <workItem from="1617948386636" duration="324000" />
+      <workItem from="1617950083396" duration="618000" />
+      <workItem from="1617998607699" duration="84000" />
+      <workItem from="1617999599273" duration="76000" />
+      <workItem from="1618078542259" duration="179000" />
+      <workItem from="1618143174511" duration="115000" />
+      <workItem from="1618153827091" duration="440000" />
+      <workItem from="1618166425690" duration="5000" />
+      <workItem from="1618325376494" duration="1769000" />
+      <workItem from="1618335268201" duration="99000" />
+      <workItem from="1618342252892" duration="6000" />
+      <workItem from="1618388840301" duration="18000" />
+      <workItem from="1618483608990" duration="9150000" />
+      <workItem from="1618496992941" duration="75000" />
+      <workItem from="1618503214108" duration="627000" />
+      <workItem from="1618508474689" duration="476000" />
+      <workItem from="1618508998422" duration="4000" />
+      <workItem from="1618510160675" duration="817000" />
+      <workItem from="1618562507579" duration="1083000" />
+      <workItem from="1618563690391" duration="34000" />
+      <workItem from="1618675905845" duration="14000" />
+      <workItem from="1618817173136" duration="514000" />
+      <workItem from="1618950179525" duration="53000" />
+      <workItem from="1619093087505" duration="11074000" />
+      <workItem from="1619106686957" duration="32000" />
+      <workItem from="1619187574166" duration="4528000" />
+      <workItem from="1619192208435" duration="3000" />
+      <workItem from="1619192289715" duration="30000" />
+      <workItem from="1619369996109" duration="601000" />
+      <workItem from="1619424006541" duration="3000" />
+      <workItem from="1619447020577" duration="15000" />
+      <workItem from="1619459650454" duration="381000" />
+      <workItem from="1619467366196" duration="6000" />
+      <workItem from="1619603659758" duration="9000" />
+      <workItem from="1619785742725" duration="5271000" />
+      <workItem from="1619799377319" duration="1890000" />
+      <workItem from="1619805269434" duration="4485000" />
+      <workItem from="1619812025871" duration="5038000" />
+      <workItem from="1619817917750" duration="4294000" />
+      <workItem from="1619858329149" duration="1702000" />
+      <workItem from="1619861082769" duration="840000" />
+      <workItem from="1619862550992" duration="1644000" />
+      <workItem from="1619864405437" duration="4148000" />
+      <workItem from="1619868704293" duration="1150000" />
+      <workItem from="1620139660675" duration="5555000" />
+      <workItem from="1620235525765" duration="3507000" />
+      <workItem from="1620242715036" duration="642000" />
+      <workItem from="1620291092388" duration="365000" />
+      <workItem from="1620320977355" duration="607000" />
+      <workItem from="1620509515548" duration="12000" />
+      <workItem from="1620565652514" duration="56000" />
+      <workItem from="1620565794042" duration="40000" />
+      <workItem from="1620566050829" duration="98000" />
+      <workItem from="1620655690329" duration="593000" />
+      <workItem from="1620848911071" duration="1000" />
+      <workItem from="1621099476979" duration="541000" />
+      <workItem from="1621154599444" duration="7000" />
+      <workItem from="1621154765931" duration="1539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_261/src.zip!/java/util/ConcurrentModificationException.java</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
